@@ -1,5 +1,5 @@
 {
-  "name": "@cityofboston/form-common",
+  "name": "form-common",
   "version": "0.0.0",
   "description": "Utilities and helpers for HTML forms and validation",
   "private": true,
